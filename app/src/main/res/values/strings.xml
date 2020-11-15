@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My_Maps</string>
+    <string name="map_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB7mp21u7aSnV0i7FWQpdhtvEutqk70ar0</string>
+
+</resources>
